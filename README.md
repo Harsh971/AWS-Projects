@@ -93,6 +93,7 @@ This repository contains documentation for various AWS projects that I have work
 | VPC Peering 1                      | EC2, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/VPC%20Peering%201) |
 | Creating EC2 Snapshots             | EC2     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Creating%20EC2%20Snapshots) |
 | Hosting a Static Webpage           | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Hosting%20a%20Static%20Webpage) |
+| Running a NodeJS App               | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20NodeJS%20App) |
 | Running a Django App               | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20Django%20App) |
 | Running a Flask App                | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20Flask%20App) |
 
