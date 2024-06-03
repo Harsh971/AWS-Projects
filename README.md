@@ -70,6 +70,7 @@ This repository contains documentation for various AWS projects that I have work
 | Project Name             | Technologies Used       | Link                     |
 |--------------------------|-------------------------|--------------------------|
 | Architecture 1           | EC2, NAT GW, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20VPC%20Architecture/Architecture%201) |
+| VPC Peering 1            | EC2, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20VPC%20Architecture/VPC%20Peering%201) |
 
 
 ---
@@ -89,6 +90,7 @@ This repository contains documentation for various AWS projects that I have work
 |------------------------------------|-------------------------|--------------------------|
 | CICD 1                             | IAM, S3, EC3, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/CICD%201) |
 | VPC Architecture 1                 | EC2, NAT GW, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/VPC%20Architecture%201) |
+| VPC Peering 1                      | EC2, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/VPC%20Peering%201) |
 | Creating EC2 Snapshots             | EC2     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Creating%20EC2%20Snapshots) |
 | Hosting a Static Webpage           | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Hosting%20a%20Static%20Webpage) |
 | Running a Django App               | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20Django%20App) |
