@@ -1,8 +1,8 @@
 # AWS VPC Peering Project
 
 ## Project Overview
-
-<img src="https://github.com/Harsh971/AWS-Services/blob/main/AWS%20VPC%20Architecture/VPC%20Peering%201/architecture.png"></img>
+         
+<img src="https://github.com/Harsh971/AWS-Projects/blob/main/AWS%20VPC%20Architecture/VPC%20Peering%201/architecture.png"></img>
 
 This project involves the creation of two distinct Virtual Private Clouds (VPCs), each containing public subnets and a single EC2 instance. The objective is to establish communication between the instances in different VPCs using VPC Peering-like architecture through Internet Control Message Protocol (ICMP), specifically using ping commands.
 
