@@ -39,6 +39,10 @@ This repository contains documentation for various AWS projects that I have work
   <a href="#vpc-projects">
     <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" alt="VPC" width="50" height="50">
   </a>
+  &nbsp;
+  <a href="#rds-projects">
+    <img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" alt="RDS" width="50" height="50">
+  </a>
 
 </p>
 
@@ -84,6 +88,15 @@ This repository contains documentation for various AWS projects that I have work
 
 ---
 
+## RDS Projects
+
+| Project Name                              | Technologies Used       | Link                     |
+|-------------------------------------------|-------------------------|--------------------------|
+| Regrestration Page 1               | EC2, S3, RDS, Route53     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20RDS/Regrestration%20Page%201) |
+
+
+---
+
 ## EC2 Projects
 
 | Project Name                       | Technologies Used       | Link                     |
@@ -91,6 +104,7 @@ This repository contains documentation for various AWS projects that I have work
 | CICD 1                             | IAM, S3, EC3, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/CICD%201) |
 | VPC Architecture 1                 | EC2, NAT GW, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/VPC%20Architecture%201) |
 | VPC Peering 1                      | EC2, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/VPC%20Peering%201) |
+| Regrestration Page 1               | EC2, S3, RDS, Route53     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Regrestration%20Page%201) |
 | Creating EC2 Snapshots             | EC2     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Creating%20EC2%20Snapshots) |
 | Hosting a Static Webpage           | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Hosting%20a%20Static%20Webpage) |
 | Running a NodeJS App               | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20NodeJS%20App) |
@@ -118,6 +132,7 @@ This repository contains documentation for various AWS projects that I have work
 | Project Name                         | Technologies Used       | Link                     |
 |--------------------------------------|-------------------------|--------------------------|
 | Serverless Web Application           | Lambda, S3, DynamoDB, Route53, CloudFront     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Route53/Serverless%20Web%20Application) |
+| Regrestration Page 1               | EC2, S3, RDS, Route53     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Route53/Regrestration%20Page%201) |
 
 
 ---
@@ -127,6 +142,7 @@ This repository contains documentation for various AWS projects that I have work
 | Project Name                                             | Technologies Used       | Link                     |
 |----------------------------------------------------------|-------------------------|--------------------------|
 | CICD 1                                                   | IAM, S3, EC3, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/CICD%201) |
+| Regrestration Page 1                                     | EC2, S3, RDS, Route53     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Regrestration%20Page%201) |
 | Download Files from S3 via APIGateway                    | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Download%20Files%20from%20S3%20via%20APIGateway) |
 | Serverless Web Application                               | Lambda, S3, DynamoDB, Route53, CloudFront     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Serverless%20Web%20Application) |
 | Trigger Lambda when New File is stored on S3             | Lambda, API Gateway     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Trigger%20Lambda%20when%20New%20File%20is%20stored%20on%20S3) |
