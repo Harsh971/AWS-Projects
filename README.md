@@ -107,6 +107,7 @@ This repository contains documentation for various AWS projects that I have work
 | Regrestration Page 1               | EC2, S3, RDS, Route53     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Regrestration%20Page%201) |
 | Creating EC2 Snapshots             | EC2     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Creating%20EC2%20Snapshots) |
 | Hosting a Static Webpage           | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Hosting%20a%20Static%20Webpage) |
+| Application Load Balancer 1        | EC2, ALB     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Application%20Load%20Balancer%201) |
 | Running a NodeJS App               | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20NodeJS%20App) |
 | Running a Django App               | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20Django%20App) |
 | Running a Flask App                | EC2, IAM     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Running%20a%20Flask%20App) |
