@@ -126,7 +126,8 @@ This repository contains documentation for various AWS projects that I have work
 | Download Files from S3 via APIGateway                   | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Download%20Files%20from%20S3%20via%20APIGateway) |
 | Serverless Regrestration Webapp                         | APIGateway, Lambda, DynamoDB     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Serverless%20Regrestration%20Webapp) |
 | Serverless Web Application                              | Lambda, S3, DynamoDB, Route53, CloudFront     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Serverless%20Web%20Application) |
-| Serverless CRUD 1                         | Lambda, DynamoDB, APIGateway            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Serverless%20CRUD%201) |
+| Serverless CRUD 1                                       | Lambda, DynamoDB, APIGateway            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Serverless%20CRUD%201) |
+| Cross Account Resource Access                           | Lambda, S3            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Cross%20Account%20Resource%20Access) |
 | Returns random text from API to Lambda                  | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Returns%20random%20text%20from%20API%20to%20Lambda) |
 | Trigger Lambda when New File is stored on S3            | Lambda, S3, CloudWatch     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Trigger%20Lambda%20when%20New%20File%20is%20stored%20on%20S3) |
 | Upload and Download Files using Presigned URL           | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Upload%20and%20Download%20Files%20using%20Presigned%20URL) |
@@ -149,6 +150,7 @@ This repository contains documentation for various AWS projects that I have work
 |----------------------------------------------------------|-------------------------|--------------------------|
 | CICD 1                                                   | IAM, S3, EC3, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/CICD%201) |
 | Regrestration Page 1                                     | EC2, S3, RDS, Route53     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Regrestration%20Page%201) |
+| Cross Account Resource Access                           | Lambda, S3            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Cross%20Account%20Resource%20Access) |
 | Download Files from S3 via APIGateway                    | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Download%20Files%20from%20S3%20via%20APIGateway) |
 | Serverless Web Application                               | Lambda, S3, DynamoDB, Route53, CloudFront     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Serverless%20Web%20Application) |
 | Trigger Lambda when New File is stored on S3             | Lambda, API Gateway     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20S3/Trigger%20Lambda%20when%20New%20File%20is%20stored%20on%20S3) |
