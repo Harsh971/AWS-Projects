@@ -53,6 +53,7 @@ This repository contains documentation for various AWS projects that I have work
 | Project Name                                            | Technologies Used       | Link                     |
 |---------------------------------------------------------|-------------------------|--------------------------|
 | Serverless Regrestration Webapp                         | APIGateway, Lambda, DynamoDB    | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20APIGateway/Serverless%20Regrestration%20Webapp) |
+| Serverless CRUD 1                         | Lambda, DynamoDB, APIGateway            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20APIGateway/Serverless%20CRUD%201) |
 | Upload and Download Files using Presigned URL           | APIGateway, Lambda, S3    | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20APIGateway/Upload%20and%20Download%20Files%20using%20Presigned%20URL) |
 | Download Files from S3 via APIGateway                   | APIGateway, Lambda, S3            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20APIGateway/Download%20Files%20from%20S3%20via%20APIGateway) |
 | Returns random text from API to Lambda                  | APIGateway, Lambda, CloudWatch    | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20APIGateway/Returns%20random%20text%20from%20API%20to%20Lambda) |
@@ -85,6 +86,7 @@ This repository contains documentation for various AWS projects that I have work
 |-------------------------------------------|-------------------------|--------------------------|
 | Serverless Regrestration Webapp           | APIGateway, Lambda, DynamoDB           | [Click here]([./RDS/Project1](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20DynamoDB/Serverless%20Regrestration%20Webapp)) |
 | Serverless Web Application                | Lambda, S3, DynamoDB, Route53, CloudFront            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20DynamoDB/Serverless%20Web%20Application) |
+| Serverless CRUD 1                         | Lambda, DynamoDB, APIGateway            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20DynamoDB/Serverless%20CRUD%201) |
 
 ---
 
@@ -122,6 +124,7 @@ This repository contains documentation for various AWS projects that I have work
 | Download Files from S3 via APIGateway                   | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Download%20Files%20from%20S3%20via%20APIGateway) |
 | Serverless Regrestration Webapp                         | APIGateway, Lambda, DynamoDB     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Serverless%20Regrestration%20Webapp) |
 | Serverless Web Application                              | Lambda, S3, DynamoDB, Route53, CloudFront     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Serverless%20Web%20Application) |
+| Serverless CRUD 1                         | Lambda, DynamoDB, APIGateway            | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Serverless%20CRUD%201) |
 | Returns random text from API to Lambda                  | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Returns%20random%20text%20from%20API%20to%20Lambda) |
 | Trigger Lambda when New File is stored on S3            | Lambda, S3, CloudWatch     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Trigger%20Lambda%20when%20New%20File%20is%20stored%20on%20S3) |
 | Upload and Download Files using Presigned URL           | APIGateway, Lambda, S3     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20Lambda/Upload%20and%20Download%20Files%20using%20Presigned%20URL) |
