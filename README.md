@@ -65,7 +65,8 @@ This repository contains documentation for various AWS projects that I have work
 
 | Project Name        | Technologies Used       | Link                     |
 |---------------------|-------------------------|--------------------------|
-| CICD 1              | IAM, S3, EC3, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20DevOps%20Stack/CICD%201) |
+| CICD 1              | IAM, S3, EC2, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20DevOps%20Stack/CICD%201) |
+| CICD 2              | IAM, EC2, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20DevOps%20Stack/CICD%202) |
 
 
 ---
@@ -103,7 +104,8 @@ This repository contains documentation for various AWS projects that I have work
 
 | Project Name                       | Technologies Used       | Link                     |
 |------------------------------------|-------------------------|--------------------------|
-| CICD 1                             | IAM, S3, EC3, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/CICD%201) |
+| CICD 1                             | IAM, S3, EC2, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/CICD%201) |
+| CICD 2                             | IAM, EC2, DevOps Stack     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/CICD%202) |
 | VPC Architecture 1                 | EC2, NAT GW, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/VPC%20Architecture%201) |
 | VPC Peering 1                      | EC2, Internet GW     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/VPC%20Peering%201) |
 | Regrestration Page 1               | EC2, S3, RDS, Route53     | [Click here](https://github.com/Harsh971/AWS-Projects/tree/main/AWS%20EC2/Regrestration%20Page%201) |
